@@ -1,0 +1,5 @@
+INDEX VERSION 1.126+/media/dnd/windows/Users/mine/debian-eclipse/.metadata/.plugins/org.eclipse.jdt.core
+127834955.index
+1443403374.index
+4124271350.index
+1530078270.index
